@@ -1,7 +1,6 @@
+# Multi-label Classification model for a Hotel booking app
+This model helped the client in identifying whether the review was positive or negative and also for which category the review was given.
 
-## Multi-label Classification model for a Hotel booking app
-+ This model helped the client in identifying whether the review was positive or negative and also for
-which category the review was given.
 
 ## Table of contents
 * [General info](#general-info)
