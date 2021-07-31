@@ -2,6 +2,7 @@
 This model helped the client in identifying whether the review was positive or negative and also for which category the review was given.
 
 
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
