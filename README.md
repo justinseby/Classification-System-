@@ -64,6 +64,5 @@ from keras.optimizers import Adam
 from keras.layers.embeddings import Embedding
 from keras.callbacks import ReduceLROnPlateau
   
-
 ## Contact
 created by [@justinseby] - feel free to contact me
