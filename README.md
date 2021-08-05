@@ -27,10 +27,8 @@ method.
 + Conv 1D was the highest performing algorithm for multi label classification.
 + “F1 micro” score, along with “Hamming loss” was considered as the evaluation metrics.
 
-
 ## Technologies
 Tools/Technique: Python, Feature Engineering, Text mining, t-SNE,LSTM, Conv 1D
-
 
 ## Code Examples
 
