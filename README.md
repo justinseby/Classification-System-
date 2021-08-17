@@ -14,7 +14,7 @@ This project is a flight ticket booking system in which users can book or cancel
 ## Description: Multi-label Classification model for a Hotel booking app.
 ### Goal:
 To classify the reviews as Positive or Negative and further identifying them as reviews on 4
-important categories (Room, Staff and Service, Amenities, Food).
+important categories (Room, Staff and Service, Amenities, Food). 
 
 ### Synopsis:
 + This model helped the client in identifying whether the review was positive or negative and also for
